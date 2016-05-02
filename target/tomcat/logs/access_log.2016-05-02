@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [02/May/2016:00:57:24 +0100] "GET /rest/humain/list HTTP/1.1" 200 132 http-bio-8080-exec-9 220
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:34:13 +0100] "GET /rest/humain/list HTTP/1.1" 200 439 http-bio-8080-exec-1 8202
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:34:33 +0100] "GET /rest/humain/list HTTP/1.1" 200 439 http-bio-8080-exec-3 16
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:35:55 +0100] "GET /rest/hello/home HTTP/1.1" 200 78 http-bio-8080-exec-5 266
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:36:15 +0100] "GET /rest/humain/list HTTP/1.1" 200 439 http-bio-8080-exec-7 35
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:36:28 +0100] "GET /rest/hello/home HTTP/1.1" 200 78 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:44:12 +0100] "GET /rest/hello/Personne HTTP/1.1" 500 - http-bio-8080-exec-1 106
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:48:02 +0100] "GET /rest/hello/personne HTTP/1.1" 404 - http-bio-8080-exec-3 36
+0:0:0:0:0:0:0:1 - - [02/May/2016:14:48:07 +0100] "GET /rest/hello/home HTTP/1.1" 200 78 http-bio-8080-exec-5 214
